@@ -51,7 +51,7 @@ address:
   - line: Ponta Delgada
 
 # Credits content
-credits: 'Let's Talk'
+credits: "Let's Talk"
 
 # Build settings
 markdown: kramdown
