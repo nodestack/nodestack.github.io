@@ -326,7 +326,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #fff;
+   color: rgb(255, 255, 255);
 }
 
 footer h3 {
@@ -334,8 +334,9 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background: rgb(34, 34, 34);
 }
 
 footer .footer-col {
