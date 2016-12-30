@@ -326,11 +326,13 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-   color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
 }
 
 footer h3 {
     margin-bottom: 30px;
+    font-size: 0.667em;
+    letter-spacing: 3.5px;
 }
 
 footer .footer-above {
