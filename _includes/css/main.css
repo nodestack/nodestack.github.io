@@ -80,9 +80,12 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background-image: url(/imag/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #222222;
 }
 
 header .container {
