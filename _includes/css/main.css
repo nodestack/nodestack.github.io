@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     color: #fff;
-    background-image: url(/imag/hero.jpg);
+    background-image: url(/img/hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -184,7 +184,11 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background-color: #f0f7fc;
+    background-image: url(/img/our_mission.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 @media(max-width:767px) {
