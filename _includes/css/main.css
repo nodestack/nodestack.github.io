@@ -98,6 +98,19 @@ header img {
     margin: 0 auto 20px;
 }
 
+header .index-liquid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background-image: url(/img/index-liquid.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    z-index: 1;
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
