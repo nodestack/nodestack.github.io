@@ -185,6 +185,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+    border-color: transparent;
 }
 
 section {
