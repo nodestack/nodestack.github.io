@@ -80,6 +80,8 @@ hr.star-primary:after {
 }
 
 header {
+    height: 100vh;
+    width: 100%;
     color: #fff;
     background-image: url(/img/hero.jpg);
     background-size: cover;
@@ -108,7 +110,6 @@ header .index-liquid {
     background-repeat: no-repeat;
     background-size: contain;
     display: block;
-    z-index: 1;
 }
 
 header .intro-text .name {
