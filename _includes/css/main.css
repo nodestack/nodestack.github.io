@@ -42,8 +42,6 @@ h1 {
 }
 
 h1:after {
-    margin-top: 40px;
-    margin-bottom: 30px;
     height: 1px;
     width: 50px;
     content: '';
