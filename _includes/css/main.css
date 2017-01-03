@@ -116,7 +116,7 @@ header {
     background-color: #222222;
 }
 
-header .container {
+header .container-fluid {
     padding-top: 100px;
     padding-bottom: 50px;
 }
