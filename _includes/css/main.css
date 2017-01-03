@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #5fbffd;
 }
 
 h1,
@@ -39,6 +39,16 @@ h1 {
    font-family: "Droid Serif",serif;
    font-size: 3.889em;
    line-height: 70px;
+}
+
+h1:after {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    height: 1px;
+    width: 50px;
+    content: '';
+    display: block;
+    background: #ffffff;
 }
 
 h2 {
