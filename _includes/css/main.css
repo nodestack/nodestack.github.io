@@ -37,6 +37,14 @@ h6 {
 
 h1 {
    font-family: "Droid Serif",serif;
+   font-size: 3.889em;
+   line-height: 70px;
+}
+
+h2 {
+    font-family: "Droid Serif",serif;
+    font-weight: 500;
+    font-size: 2.667em;
 }
 
 hr.star-light,
