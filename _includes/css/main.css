@@ -36,6 +36,10 @@ h6 {
     font-weight: 700;
 }
 
+h1 {
+   font-family: "Droid Serif",serif;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -185,7 +189,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    border-color: transparent;
+    background: transparent;
 }
 
 section {
