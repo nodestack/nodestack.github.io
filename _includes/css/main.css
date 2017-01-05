@@ -56,6 +56,23 @@ h2 {
     font-weight: 500;
     font-size: 2.667em;
 }
+h3 {
+    margin-bottom: 40px;
+    font-family: "Droid Serif",serif;
+    font-weight: 500;
+    font-size: 2.000em;
+}
+h4 { 
+    font-family: "Droid Serif",serif;
+    font-weight: 600;
+    font-size: 1.667em
+}
+h5 {
+    font-family: "Droid Serif",serif;
+    font-weight: 600;
+    font-size: 1.333em
+}
+
 h6 {
     font-weight: 700;
     text-transform: uppercase;
@@ -260,7 +277,7 @@ section {
 
 section h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2.667em;
 }
 
 section.success {
