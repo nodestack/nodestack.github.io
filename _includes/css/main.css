@@ -164,6 +164,9 @@ header .intro-text .skills {
     }
 
     header .intro-text .skills {
+        padding-left: 120px;
+        font-weight: 400;
+        color: #ffffff;
         font-size: 1.75em;
     }
 }
