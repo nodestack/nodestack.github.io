@@ -56,7 +56,20 @@ h2 {
     font-weight: 500;
     font-size: 2.667em;
 }
-
+h6 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.667em;
+    letter-spacing: 3.5px;
+}
+h6:after {
+    margin: 30px 0 0;
+    height: 2px;
+    width: 50px;
+    content: '';
+    display: block;
+    background: #5fbffd;
+}
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
