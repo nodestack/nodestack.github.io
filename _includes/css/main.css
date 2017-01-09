@@ -5,13 +5,12 @@
  */
 
 body {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #898989;
     overflow-x: hidden;
 }
 
 p {
     font-size: 20px;
-    color: #898989;
     line-height: 34px;
 }
 
@@ -39,7 +38,7 @@ h6 {
 }
 
 h1 {
-   font-family: "Droid Serif",serif;
+   font-family: "pt-serif", serif;;
    font-size: 3.889em;
    line-height: 70px;
 }
@@ -55,7 +54,7 @@ h1:after {
 }
 
 h2 {
-    font-family: "Droid Serif",serif;
+    font-family: "pt-serif", serif;
     font-weight: 500;
     font-size: 2.667em;
 }
