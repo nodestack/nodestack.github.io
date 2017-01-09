@@ -1,7 +1,7 @@
 # Site settings
 title: "Nodestack | Digital eCommerce Experts."
 email: hello@nodestack.io
-url: https://nodestack.io
+url: http://nodestack.io
 description: "Nodestack is a digital ecommerce starup. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
 skills: "Ruby, Rails, Spree/Solidus (Ruby eCommerce system), Reactjs, Node.js, Reduxjs, React Native, Postgres, Redis, ElasticSearch, Heroku, Memcached, Git"
 meta_author: Pedro D.
@@ -47,9 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Avenida Dom João III, 33
-  - line: Ponta Delgada
-
+  - line: hello@nodestack.io
+  - line: (+351) 91 663 9929
 # Credits content
 credits: "Let's Talk"
 
