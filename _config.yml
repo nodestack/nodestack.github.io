@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 5fbffd #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 3e3e3e #FD6E8A
+  secondary-dark: 3e3e3e #A2122F
 
 # Footer settings
 footer:
@@ -41,13 +41,13 @@ social:
   - title: twitter
     url: http://twitter.com/nodestackio
   - title: facebook
-    url: http://facebook.com/nodestack
+    url: http://facebook.com/nodestackio
   - title: github
     url: http://github.com/nodestack
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: hello@nodestack.io
+  - line: Hello@nodestack.io
   - line: (+351) 91 663 9929
 # Credits content
 credits: "Let's Talk"
