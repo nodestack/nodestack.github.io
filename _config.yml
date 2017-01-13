@@ -50,7 +50,7 @@ address:
   - line: Hello@nodestack.io
   - line: (+351) 91 663 9929
 # Credits content
-credits: "Let's Talk"
+credits: "Let's talk"
 
 # Build settings
 markdown: kramdown
