@@ -265,6 +265,9 @@ header .intro-text .skills {
     background: #5fbffd;
 }
 
+.navbar .navbar-nav li a:hover:after {
+    width: 100%;
+}
 .navbar .navbar-nav li a:focus {
     outline: 0;
 }
