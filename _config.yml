@@ -2,8 +2,8 @@
 title: "Nodestack | Digital eCommerce Experts."
 email: hello@nodestack.io
 url: http://nodestack.io
-description: "Nodestack is a digital ecommerce starup. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
-skills: "Ruby, Rails, Spree/Solidus (Ruby eCommerce system), Reactjs, Node.js, Reduxjs, React Native, Postgres, Redis, ElasticSearch, Heroku, Memcached, Git"
+description: "Nodestack is a digital eCommerce Experts. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
+skills: "Ruby, Rails, Spree/Solidus (e-commerce platform with Ruby on Rails), Reactjs, Reduxjs, ES6, React Native, Postgres, Redis, ElasticSearch, Heroku, Memcached, Git"
 meta_author: Pedro D.
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Handcrafted by nodestack.io
+  copyright: Handcrafted by nodestack
   location: Location
   social: Around the Web
   credits: Start a Project
