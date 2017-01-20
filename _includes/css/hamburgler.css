@@ -50,16 +50,23 @@
 
 
 .icon {
-    z-index: 999;
     position: fixed;
-/*    background: rgba(0, 0, 0, 0.21);*/
+    top: 30px;
+    right: 30px;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    height: 45px;
+    width: 45px;
+    padding-top: 17px;
+    padding-left: 13px;
+    background: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 5;
+    /* visibility: hidden;
+    */
     display: block;
-    padding: 9px;
-    height: 32px;
-    width:32px;
-    margin: 0px;
-    top: 0;
-    left: 0;
 }
 
 .mobilenav {
