@@ -24,26 +24,26 @@
 
 .top-menu {
   top: 5px;
-  width: 25px;
+  width: 20px;
   height: 2px;
   border-radius: 10px;
-  background-color: #F9A530;
+  background-color: #3e3e3e;
 }
 
 .mid-menu {
   top: 13px;
-  width: 25px;
+  width: 20px;
   height: 2px;
   border-radius: 10px;
-  background-color: #F9A530;
+  background-color: #3e3e3e;
 }
 
 .bottom-menu {
   top: 21px;
-  width: 25px;
+  width: 15px;
   height: 2px;
   border-radius: 10px;
-  background-color: #F9A530;
+  background-color: #3e3e3e;
 }
 
 .menui {
