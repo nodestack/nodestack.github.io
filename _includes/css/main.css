@@ -206,6 +206,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
+        position: absolute;
         padding: 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
