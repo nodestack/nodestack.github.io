@@ -278,7 +278,7 @@ header .intro-text .skills {
 .nav>li>a {
     position: relative;
     display: block;
-    margin: 0 15px;
+    margin: 19px 14px;
     padding: 0;
 }
 
@@ -454,7 +454,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border: 0;
 }
 
 footer {
@@ -471,7 +471,7 @@ footer h3 {
 footer .footer-above {
     padding-top: 150px;
     padding-bottom: 150px;
-    background: rgb(34, 34, 34);
+    background: #222222;
 }
 
 footer .footer-col {
