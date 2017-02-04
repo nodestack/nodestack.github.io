@@ -96,10 +96,11 @@
 }
 
 .mobilenav li a {
-  font-size: 150%;
+  font-family: "Droid Serif", serif;
+  font-size: 3.333em;
   color: #fff;
   text-decoration: none;
-  font-weight: 300;
+  font-weight: 500;
   width: 100%;
 }
 
