@@ -268,7 +268,7 @@ header .intro-text .skills {
     top: 27px;
     content: '';
     display: block;
-    background: #5fbffd;
+    background: #fff;
 }
 
 .navbar .navbar-nav li a:hover:after {
