@@ -466,16 +466,15 @@ footer {
 }
 
 footer h3 {
-    margin-bottom: 30px;
-    text-transform: uppercase;
-    font-size: 0.667em;
-    letter-spacing: 3.5px;
+    font-family: "Abhaya Libre","Times New Roman",Times,serif;
+    color: #333840;
+    letter-spacing: .03rem;
+    line-height: 1;
 }
 
-footer .footer-above {
-    padding-top: 150px;
-    padding-bottom: 150px;
-    background: #222222;
+footer .o-footer {
+    background-color: #F1F1F1;
+    padding-bottom: 2.5rem;
 }
 
 footer .footer-col {
