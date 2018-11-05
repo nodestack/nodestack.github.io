@@ -462,7 +462,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: rgb(255, 255, 255);
+    background-color: #F1F1F1;
 }
 
 footer h3 {
