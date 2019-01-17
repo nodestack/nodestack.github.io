@@ -211,6 +211,10 @@ header .intro-text .skills {
     }
 }
 
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         position: fixed;
@@ -231,6 +235,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
+        background-color: #fff;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -256,7 +261,7 @@ header .intro-text .skills {
     transition: all 0.6s ease;
     position: relative;
     color: #000;
-    font-size: .65rem;
+    font-size: 1rem;
     letter-spacing: .12rem;
     font-weight: 500;
     text-transform: uppercase
