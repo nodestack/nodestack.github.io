@@ -211,7 +211,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        position: absolute;
+        position: fixed;
         padding: 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
@@ -253,10 +253,11 @@ header .intro-text .skills {
     webkit-transition: all 0.6s ease;
     transition: all 0.6s ease;
     position: relative;
-    font-size: 0.667em;
-    font-weight: 700;
-    letter-spacing: 3.8px;
-    text-transform: uppercase;
+    color: #000;
+    font-size: .65rem;
+    letter-spacing: .12rem;
+    font-weight: 500;
+    text-transform: uppercase
 }
 
 .navbar .navbar-nav li a:after {
@@ -269,6 +270,10 @@ header .intro-text .skills {
     content: '';
     display: block;
     background: #000;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
 }
 
 .navbar .navbar-nav li a:hover:after {
