@@ -5,7 +5,11 @@
  */
 
 body {
-    color: #898989;
+    font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
     overflow-x: hidden;
 }
 
@@ -33,12 +37,14 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: .5rem;
+    font-family: "Abhaya Libre","Times New Roman",Times,serif;
     font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
 }
 
 h1 {
-   font-family: "Droid Serif", serif;;
    font-size: 3.889em;
    line-height: 70px;
 }
@@ -54,23 +60,19 @@ h1:after {
 }
 
 h2 {
-    font-family: "Droid Serif", serif;
     font-weight: 500;
     font-size: 2.667em;
 }
 h3 {
     margin-bottom: 40px;
-    font-family: "Droid Serif",serif;
     font-weight: 500;
     font-size: 2.000em;
 }
 h4 { 
-    font-family: "Droid Serif",serif;
     font-weight: 600;
     font-size: 1.667em
 }
 h5 {
-    font-family: "Droid Serif",serif;
     font-weight: 600;
     font-size: 1.333em
 }
