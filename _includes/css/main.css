@@ -79,19 +79,18 @@ h5 {
 }
 
 h6 {
-    font-weight: 700;
-    text-transform: uppercase;
-    font-size: 0.667em;
-    color: #5fbffd;
-    letter-spacing: 3.5px;
+    font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+    color: #333840;
+    letter-spacing: .03rem;
+    font-weight: 400;
+    line-height: 1.6;
 }
 h6:after {
-    margin: 30px 0 0;
-    height: 2px;
-    width: 50px;
-    content: '';
+    content: "";
+    border-bottom: 1px solid #333840;
     display: block;
-    background: #5fbffd;
+    margin-right: 20px;
+    margin-top: -5px;
 }
 hr.star-light,
 hr.star-primary {
@@ -146,12 +145,12 @@ hr.star-primary:after {
 header {
     height: 100vh;
     width: 100%;
-    color: #fff;
-    background-image: url(/img/hero.jpg);
+    color: #000;
+    //background-image: url(/img/hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #222222;
+    background-color: #f1f1f1;
 }
 
 header .container-fluid {
@@ -183,7 +182,6 @@ header .index-liquid {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -206,7 +204,7 @@ header .intro-text .skills {
     header .intro-text .skills {
         padding-left: 120px;
         font-weight: 400;
-        color: #ffffff;
+        color: #000;
         font-size: 1.25em;
     }
 }
@@ -240,7 +238,6 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -271,7 +268,7 @@ header .intro-text .skills {
     top: 27px;
     content: '';
     display: block;
-    background: #fff;
+    background: #000;
 }
 
 .navbar .navbar-nav li a:hover:after {
