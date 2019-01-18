@@ -419,7 +419,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #000;
 }
 
 .floating-label-form-group input,
@@ -455,7 +455,7 @@ section.success {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid #000;
 }
 
 .floating-label-form-group-with-value label {
