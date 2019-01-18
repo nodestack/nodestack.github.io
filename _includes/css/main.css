@@ -672,3 +672,14 @@ footer .footer-below {
     color: #fff;
     border-color: transparent;
 }
+.a-line {
+    margin: auto;
+    position: absolute;
+    bottom: 15vh;
+    left: 50%;
+    width: 1px;
+    height: 0px;
+    background-color: #333840;
+    animation: vertical-line 3s .5s ease-in-out infinite;
+    animation-fill-mode: forwards;
+}
