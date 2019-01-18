@@ -90,7 +90,7 @@ h6:after {
     content: "";
     border-bottom: 1px solid #333840;
     display: block;
-    width: 100;
+    width: 100px;
     margin-right: 20px;
     margin-top: -5px;
 }
