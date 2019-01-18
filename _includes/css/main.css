@@ -90,6 +90,7 @@ h6:after {
     content: "";
     border-bottom: 1px solid #333840;
     display: block;
+    width: 100;
     margin-right: 20px;
     margin-top: -5px;
 }
@@ -232,7 +233,6 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
         background-color: #fff;
     }
 
