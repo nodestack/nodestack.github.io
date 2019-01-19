@@ -672,6 +672,11 @@ footer .footer-below {
     background-color: transparent;
     border-color: #000; 
 }
+.btn-outline-secondary:hover, .btn-outline-secondary:active {
+    border-color: #000;
+    background-color: #000;
+    color: #fff;
+}
 .a-line {
     margin: auto;
     position: absolute;
