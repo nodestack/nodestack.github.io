@@ -151,7 +151,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #f1f1f1;
+    background-color: #fff;
 }
 
 header .container-fluid {
@@ -243,6 +243,7 @@ header .intro-text .skills {
 .navbar {
     text-transform: uppercase;
     font-weight: 700;
+    padding: 56px 28px 112px;
 }
 
 .navbar a:focus {
