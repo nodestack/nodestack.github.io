@@ -132,6 +132,10 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+small {
+font-size: 14px;
+}
+
 .img-centered {
     margin: 0 auto;
 }
@@ -243,7 +247,8 @@ header .intro-text .skills {
 .navbar {
     text-transform: uppercase;
     font-weight: 700;
-    padding: 56px 28px 112px;
+    padding: 24px;
+    margin-bottom: 56px;
 }
 
 .navbar a:focus {
@@ -259,10 +264,10 @@ header .intro-text .skills {
     transition: all 0.6s ease;
     position: relative;
     color: #000;
-    font-size: 1rem;
+    font-size: 16px;
     letter-spacing: .12rem;
     font-weight: 500;
-    text-transform: uppercase
+    text-transform: normal;
 }
 
 .navbar .navbar-nav li a:after {
