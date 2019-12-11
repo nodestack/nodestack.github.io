@@ -133,7 +133,7 @@ hr.star-primary:after {
 }
 
 small {
-font-size: 14px;
+font-size: 12px;
 }
 
 .img-centered {
@@ -267,7 +267,7 @@ header .intro-text .skills {
     font-size: 16px;
     letter-spacing: .12rem;
     font-weight: 500;
-    text-transform: normal;
+    text-transform: none;
 }
 
 .navbar .navbar-nav li a:after {
