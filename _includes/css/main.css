@@ -44,7 +44,7 @@ h6 {
 }
 
 h1 {
-    font-size: 6.563rem;
+    font-size: 9.563rem;
     font-weight: 800;
     letter-spacing: 0.125rem;
 }
@@ -305,6 +305,12 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
     background: transparent;
+}
+
+.intro-text {
+    margin-top: 56px;
+    padding: 24px;
+
 }
 
 section {
