@@ -499,6 +499,7 @@ footer .o-footer {
 }
 
 footer .footer-col {
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 
@@ -628,22 +629,23 @@ footer .footer-below {
 }
 .btn-primary:hover {
     color: #fff;
-    background-color: #d54d0d;
-    border-color: #cb490c;
+    background-color: #000;
+    border-color: #000;
 }
 .btn:focus, .btn:hover {
     text-decoration: none;
 }
 .btn-primary:hover, .btn-primary:active {
-    border-color: #F26522;
-    background-color: transparent;
-    color: #F26522;
+    border-color: #000;
+    background-color: #000;
+    color: #fff;
 }
 .btn-primary {
     margin-bottom: 1rem;
     margin-top: 2rem;
     color: #fff;
-    border-color: transparent;
+    border-color: #000;
+    background-color: transparent;
 }
 .btn {
     text-transform: uppercase;
@@ -651,11 +653,6 @@ footer .footer-below {
     font-weight: normal;
     letter-spacing: 0.25rem;
     text-align: center;
-}
-.btn-primary {
-    color: #fff;
-    background-color: #F26522;
-    border-color: #F26522;
 }
 .btn {
     display: inline-block;
@@ -667,9 +664,9 @@ footer .footer-below {
     cursor: pointer;
     user-select: none;
     border: 1px solid transparent;
-    padding: .7rem 2rem;
+    padding: 1rem 2rem;
     font-size: 1rem;
-    border-radius: 2.2rem;
+    border-radius: 0;
 }
 .btn-primary {
     margin-bottom: 1rem;
