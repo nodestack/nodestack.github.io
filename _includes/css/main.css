@@ -79,8 +79,8 @@ h5 {
 
 h6 {
     font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
-    color: #333840;
-    font-size: 1.3rem;
+    color: #000;
+    font-size: 2rem;
     letter-spacing: .03rem;
     font-weight: 400;
     line-height: 1.6;
@@ -91,7 +91,6 @@ h6:after {
     display: block;
     width: 100px;
     margin-right: 20px;
-    margin-top: -5px;
 }
 hr.star-light,
 hr.star-primary {
