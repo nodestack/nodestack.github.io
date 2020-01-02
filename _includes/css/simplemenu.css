@@ -70,7 +70,7 @@
   transition: all 0.25s;
   padding-top: 15px;
   background: #ffffff;
-  bordor-color: #000;
+  border: 2px solid #000;
  
 }
 
