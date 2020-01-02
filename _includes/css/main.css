@@ -139,6 +139,9 @@ font-size: 12px;
 .img-centered {
     margin: 0 auto;
 }
+.b-blue {
+    color: #5fbffd;
+}
 
 .container-fluid {
     margin-right: auto;
