@@ -663,7 +663,7 @@ footer .footer-below {
     vertical-align: middle;
     cursor: pointer;
     user-select: none;
-    border: 1px solid transparent;
+    border: 1px solid #000;
     padding: 1rem 2rem;
     font-size: 1rem;
     border-radius: 0;
