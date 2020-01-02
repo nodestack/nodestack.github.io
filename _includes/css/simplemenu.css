@@ -52,7 +52,7 @@
 .mid-animate { opacity: 0; }
 
 .bottom-animate {
-  background: #3e3e3e !important;
+  background: #fff !important;
   top: 13px !important;
   -webkit-transform: rotate(-225deg);
   /* Chrome, Safari, Opera */
