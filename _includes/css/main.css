@@ -673,7 +673,7 @@ footer .footer-below {
     cursor: pointer;
     user-select: none;
     border: 1px solid #000;
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     font-size: 1rem;
     border-radius: 0;
 }
@@ -681,7 +681,7 @@ footer .footer-below {
     margin-bottom: 1rem;
     margin-top: 2rem;
     color: #fff;
-    border-color: transparent;
+    border-color: #000;
 }
 
 .btn-outline-secondary {
