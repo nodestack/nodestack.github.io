@@ -68,9 +68,10 @@
   right: 30px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
-  padding-top: 15px;
+  padding: 10px;
   background: #ffffff;
   border: 2px solid #000;
+  color: #000;
  
 }
 
