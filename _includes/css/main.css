@@ -479,22 +479,30 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border: 0;
+    //border: 0;
 }
 
 footer {
-    background-color: #F1F1F1;
+    background-color: #111;
+    color: #bcbcbc;
 }
 
 footer h3 {
     font-family: "Abhaya Libre","Times New Roman",Times,serif;
-    color: #333840;
+    color: #fff;
     letter-spacing: .03rem;
     line-height: 1;
 }
+.footer h3 span {
+    color: #5fbffd;
+}
+
+.footer .link {
+    color: #ffffff;
+}
 
 footer .o-footer {
-    background-color: #F1F1F1;
+    background-color: #111;
     padding-bottom: 4rem;
     padding-bottom: 2.5rem;
 }
