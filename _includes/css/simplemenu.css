@@ -68,12 +68,10 @@
   right: 30px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
-  height: 45px;
-  width: 45px;
-  padding-top: 17px;
-  padding-left: 13px;
+  padding-top: 15px;
   background: #ffffff;
-  border-radius: 50%;
+  bordor-color: #000;
+ 
 }
 
 .mobilenav {
