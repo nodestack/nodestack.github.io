@@ -69,7 +69,7 @@
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
   padding: 10px;
-  background: #ffffff;
+  background: transparent;
   border: 2px solid #000;
   color: #000;
  
