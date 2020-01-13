@@ -8,7 +8,7 @@ body {
     font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
     font-size: 14px;
     line-height: 1.5;
-    color: #000;
+    color: #403b3b;
     background-color: #fff;
     overflow-x: hidden;
 }
@@ -44,7 +44,7 @@ h6 {
 }
 
 h1 {
-    font-size: 9.563rem;
+    font-size: 3.375rem;
     font-weight: 800;
     letter-spacing: 0.125rem;
 }
@@ -210,7 +210,7 @@ header .intro-text .skills {
     header .intro-text .skills {
         padding-left: 120px;
         font-weight: 400;
-        color: #000;
+        color: #241c15;
         font-size: 1.25em;
     }
 }
@@ -340,9 +340,10 @@ section.intro {
 
 
 section.success {
-    color: #fff;
+    color: #403b3b;
     background-color: #f0f7fc;
-    background-image: url(/img/our_mission.jpg);
+    background-color: #f9e0fa;
+    //background-image: url(/img/our_mission.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
