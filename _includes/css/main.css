@@ -186,6 +186,7 @@ header .index-liquid {
 }
 
 header .intro-text .name {
+    
     display: block;
     text-transform: uppercase;
     font-size: 2em;
@@ -319,6 +320,7 @@ header .intro-text .skills {
 }
 
 .intro-text {
+     width: 50%;
     margin-top: 56px;
     padding: 24px;
 
