@@ -75,6 +75,12 @@
  
 }
 
+.icon:hover{
+  background: #000;
+  border: 1px solid #000;
+  color: #fff;
+}
+
 .icon-y {
   z-index: 9998;
   position: fixed;
