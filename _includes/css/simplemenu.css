@@ -60,7 +60,7 @@
 }
 
 .icon {
-  z-index: 9998;
+  z-index: 999;
   position: fixed;
   /*    background: rgba(0, 0, 0, 0.21);*/
   display: block;
@@ -68,10 +68,12 @@
   right: 30px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
-  padding: 10px;
-  background: transparent;
-  border: 1px solid rgb(38, 38, 39);
-  color: rgb(38, 38, 39);
+  height: 45px;
+  width: 45px;
+  padding-top: 17px;
+  padding-left: 13px;
+  background: #ffffff;
+  border-radius: 50%;
  
 }
 
@@ -94,6 +96,20 @@
   background: transparent;
   border: 0;
   color: #000;
+  z-index: 999;
+  position: fixed;
+  /*    background: rgba(0, 0, 0, 0.21);*/
+  display: block;
+  top: 30px;
+  right: 30px;
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+  height: 45px;
+  width: 45px;
+  padding-top: 17px;
+  padding-left: 13px;
+  background: #ffffff;
+  border-radius: 50%;
  
 }
 
