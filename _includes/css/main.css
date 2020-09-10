@@ -314,12 +314,6 @@ header .intro-text .skills {
 }
 
 
-@media (min-width: 768px){
-.navbar-nav.navbar-right:last-child {
-    margin-right: 80px;
-    }
-}
-
 .intro-text {
     width: 100%;
     padding: 24px;
