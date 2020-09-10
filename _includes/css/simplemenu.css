@@ -60,7 +60,7 @@
 }
 
 .icon {
-  z-index: 999;
+  z-index: 9999;
   position: fixed;
   /*    background: rgba(0, 0, 0, 0.21);*/
   display: block;
@@ -82,7 +82,7 @@
 }
 
 .icon-y {
-  z-index: 999;
+  z-index: 9999;
   position: fixed;
   /*    background: rgba(0, 0, 0, 0.21);*/
   display: block;
