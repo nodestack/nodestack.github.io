@@ -17,7 +17,7 @@
   width: 30px;
   height: 2px;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .mid-menu {
@@ -25,7 +25,7 @@
   width: 30px;
   height: 2px;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .bottom-menu {
@@ -33,7 +33,7 @@
   width: 30px;
   height: 2px;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .bottom-menu:last-child {
@@ -78,24 +78,10 @@
 }
 
 .icon:hover{
-  background: rgb(38, 38, 39);
-  border: 1px solid rgb(38, 38, 39);
-  color: #fff;
+  background: #fff;
 }
 
 .icon-y {
-  z-index: 9998;
-  position: fixed;
-  /*    background: rgba(0, 0, 0, 0.21);*/
-  display: block;
-  top: 30px;
-  right: 50px;
-  -webkit-transition: all 0.25s;
-  transition: all 0.25s;
-  padding: 10px;
-  background: transparent;
-  border: 0;
-  color: #000;
   z-index: 999;
   position: fixed;
   /*    background: rgba(0, 0, 0, 0.21);*/
@@ -104,8 +90,8 @@
   right: 30px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
-  height: 45px;
-  width: 45px;
+  height: 38px;
+  width: 38px;
   padding-top: 17px;
   padding-left: 13px;
   background: #ffffff;
