@@ -14,7 +14,7 @@
 
 .top-menu {
   top: 5px;
-  width: 30px;
+  width: 20px;
   height: 2px;
   border-radius: 10px;
   background-color: #000;
@@ -22,7 +22,7 @@
 
 .mid-menu {
   top: 10px;
-  width: 30px;
+  width: 20px;
   height: 2px;
   border-radius: 10px;
   background-color: #000;
@@ -30,7 +30,7 @@
 
 .bottom-menu {
   top: 15px;
-  width: 30px;
+  width: 16px;
   height: 2px;
   border-radius: 10px;
   background-color: #000;
@@ -38,7 +38,7 @@
 
 .bottom-menu:last-child {
     height: 2px;
-    width: 30px;
+    width: 20px;
 }
 
 .top-animate {
@@ -57,6 +57,7 @@
   -webkit-transform: rotate(-225deg);
   /* Chrome, Safari, Opera */
   transform: rotate(-225deg);
+  with: 20px;
 }
 
 .icon {
@@ -74,7 +75,7 @@
   padding-left: 13px;
   background: #ffffff;
   border-radius: 50%;
- 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18) !important
 }
 
 .icon:hover{
@@ -96,7 +97,7 @@
   padding-left: 13px;
   background: #ffffff;
   border-radius: 50%;
- 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18) !important
 }
 
 .mobilenav {
