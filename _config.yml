@@ -2,7 +2,7 @@
 title: "Stembolt"
 email: hello@stembolt.co
 url: http://stembolt.co
-description: "Activesale is a digital eCommerce Experts. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
+description: "Stembolt is a digital eCommerce Experts. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
 skills: "Ruby, Rails, Spree/Solidus (back-end e-commerce platform with Ruby on Rails), Reactjs, Reduxjs, ES6, React Native, Postgres, Redis, ElasticSearch, Heroku, Memcached, Git"
 meta_author: Pedro D.
 
@@ -39,15 +39,14 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/nodestackio
+    url: http://twitter.com/stemboltco
   - title: facebook
-    url: http://facebook.com/nodestackio
+    url: http://facebook.com/stemboltco
   - title: github
-    url: http://github.com/nodestack
-
+    url: http://github.com/stemboltco
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hello@nodestack.io
+  - line: contact@stembolt.co
   - line: (+351) 91 663 9929
 # Credits content
 credits: "Let's talk"
