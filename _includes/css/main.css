@@ -349,8 +349,8 @@ section {
 }
 
 
-section.intro {
-    
+section p {
+    font-size: 20px;    
 }
 
 .section-intro h6 {
