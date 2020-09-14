@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     font-family: "Abhaya Libre","Times New Roman",Times,serif;
-    color: #333840;
+    color: #241c15;
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
@@ -355,12 +355,12 @@ section.intro {
 
 .section-intro h6 {
     margin: 0 0 50px;
-    color: #5fbffd;
+    color: #241c15;
 }
 
 
 section.success {
-    color: #403b3b;
+    color: #241c15;
     background-color: #fbeeca;
     background-color: #f6f6f4;
 }
