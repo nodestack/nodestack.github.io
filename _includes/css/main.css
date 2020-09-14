@@ -361,12 +361,8 @@ section.intro {
 
 section.success {
     color: #403b3b;
-    background-color: #f0f7fc;
-    background-color: #f9e0fa;
-    //background-image: url(/img/our_mission.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #fbeeca;
+    background-color: #f6f6f4;
 }
 
 @media(max-width:767px) {
