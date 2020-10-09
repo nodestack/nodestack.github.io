@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #403b3b;
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Abhaya Libre","Times New Roman",Times,serif;
+    font-family: 'Playfair Display', serif;
     color: #241c15;
     font-weight: 500;
     line-height: 1.1;
@@ -78,7 +78,7 @@ h5 {
 }
 
 h6 {
-    font-family: "Work Sans","Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     color: #000;
     font-size: 2rem;
     letter-spacing: .03rem;
@@ -512,7 +512,7 @@ footer {
 }
 
 footer h3 {
-    font-family: "Abhaya Libre","Times New Roman",Times,serif;
+    font-family: 'Playfair Display', serif;
     color: #fff;
     letter-spacing: .03rem;
     line-height: 1;
