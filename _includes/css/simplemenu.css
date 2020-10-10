@@ -129,3 +129,17 @@
 }
 
 .mobilenav li:first-child { margin-top: 60px; }
+
+
+.l-icon {
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+  font-color: #fff;
+  height: 45px;
+  width: 45px;
+  padding-top: 17px;
+  padding-left: 13px;
+  background: #000000;
+  border-radius: 50%;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18) !important
+}
