@@ -278,21 +278,22 @@ header .intro-text .skills {
     webkit-transition: all 0.6s ease;
     transition: all 0.6s ease;
     position: relative;
-    color: #000;
-    font-size: .875rem;
+    color: #000019;
+    font-size: .875em;
     letter-spacing: .05em;
     font-weight: 500;
     text-transform: uppercase;
 }
 
-.navbar .navbar-nav li a:hover {
-    color: #000;   
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #000019;
+    background-color: transparent;
 }
 
 .navbar .navbar-nav li a:after {
     -webkit-transition: width 0.3s;
     transition: width 0.3s;
-    height: 2px;
+    height: 1px;
     width: 0;
     position: absolute;
     top: 27px;
@@ -302,7 +303,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #000;
+    color: #000019;
 }
 
 .navbar .navbar-nav li a:hover:after {
