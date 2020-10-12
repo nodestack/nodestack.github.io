@@ -44,7 +44,7 @@ h6 {
 }
 
 h1 {
-    font-size: 6.375rem;
+    font-size: 3.1875em;
     font-weight: 800;
     letter-spacing: 0.125rem;
 }
@@ -61,7 +61,7 @@ h1:after {
 
 h2 {
     font-weight: 600;
-    font-size: 2.667em;
+    font-size: 2.5em;
 }
 h3 {
     margin-bottom: 40px;
@@ -661,35 +661,29 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-.btn-primary:hover, .btn-primary:active {
-    border-color: #F26522;
-    background-color: transparent;
-    color: #F26522;
+.btn-primary {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    color: #fff;
+    border-color: #000;
+    background-color: #000019;
 }
 .btn-primary:hover {
     color: #fff;
-    background-color: #000;
-    border-color: #000;
+    background-color: #665aaa;
 }
 .btn:focus, .btn:hover {
     text-decoration: none;
 }
 .btn-primary:hover, .btn-primary:active {
-    border-color: #000;
-    background-color: #000;
+    background-color: #665aaa;
     color: #fff;
 }
-.btn-primary {
-    margin-bottom: 1rem;
-    margin-top: 2rem;
-    color: #000;
-    border-color: #000;
-    background-color: transparent;
-}
+
 .btn {
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 0.675rem;
-    font-weight: normal;
+    font-weight: bold;
     letter-spacing: 0.25rem;
     text-align: center;
 }
@@ -702,16 +696,10 @@ footer .footer-below {
     vertical-align: middle;
     cursor: pointer;
     user-select: none;
-    border: 1px solid #000;
+    border: none;
     padding: 2rem 2rem;
     font-size: 1rem;
-    border-radius: 0;
-}
-.btn-primary {
-    margin-bottom: 1rem;
-    margin-top: 2rem;
-    color: #000;
-    border-color: #000;
+    border-radius: 100px;
 }
 
 .btn-outline-secondary {
