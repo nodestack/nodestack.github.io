@@ -279,10 +279,14 @@ header .intro-text .skills {
     transition: all 0.6s ease;
     position: relative;
     color: #000;
-    font-size: 18px;
-    letter-spacing: .12rem;
+    font-size: .875rem;
+    letter-spacing: .05em;
     font-weight: 500;
-    text-transform: none;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-nav li a:hover {
+    color: #000;   
 }
 
 .navbar .navbar-nav li a:after {
@@ -526,7 +530,8 @@ footer h3 {
 }
 
 footer .o-footer {
-    background-color: rgb(38, 38, 39);
+    //background-color: rgb(38, 38, 39);
+    background-color: rgb(31 37 61);
     padding-top: 6rem;
     padding-bottom: 6rem;
 }
