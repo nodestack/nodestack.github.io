@@ -137,7 +137,8 @@
   transition: all 0.25s;
   height: 45px;
   width: 45px;
-  font-size. 1em;
+  font-size: 1em;
+  font-weight: 500;
   color: #fff;
   padding-top: 10px;
   padding-left: 15px;
