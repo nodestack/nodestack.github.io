@@ -457,9 +457,10 @@ section.success {
 
 .floating-label-form-group {
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 015px;
     padding-bottom: .5em;
-    border-bottom: 1px solid #000;
+    border-radius: 6px;
+    background-color: #f2f3f7;
 }
 
 .floating-label-form-group input,
