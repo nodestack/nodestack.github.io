@@ -510,7 +510,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #000019;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -527,13 +527,16 @@ footer h3 {
     color: #fff;
     letter-spacing: .03rem;
     line-height: 1;
+    margin: 0 0 20px;
 }
 .footer span {
     color: #5fbffd;
 }
 
-.footer .link {
+footer .link {
     color: #ffffff;
+    font-size: 1.25em;
+    font-weight: 700;
 }
 
 footer .o-footer {
