@@ -65,7 +65,7 @@
   position: fixed;
   /*    background: rgba(0, 0, 0, 0.21);*/
   display: block;
-  top: 15px;
+  top: 8px;
   right: 30px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
