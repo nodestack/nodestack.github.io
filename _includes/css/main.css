@@ -248,7 +248,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         text-transform: none;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
@@ -257,11 +257,11 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         background-color: rgb(255 241 232);
-        border-bottom: .0625rem solid #ffa99e;
+        //border-bottom: .0625rem solid #ffa99e;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.7em;
+        font-size: 1.5em;
     }
 }
 
