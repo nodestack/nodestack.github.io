@@ -256,7 +256,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        background-color: #fff;
+        background-color: rgb(255 241 232);
         border-bottom: .0625rem solid #ffa99e;
     }
 
@@ -291,7 +291,7 @@ header .intro-text .skills {
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
     color: #000019;
-    background-color: rgb(255 241 232);
+    //background-color: rgb(255 241 232);
 }
 
 .navbar .navbar-nav li a:after {
@@ -686,6 +686,21 @@ footer .footer-below {
     color: #fff;
 }
 
+.btn-secondary {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    color: #1f253c;
+    background-color: #ffa99e;
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #665aaa;
+}
+
+.btn-secondary:hover, .btn-secondary:active {
+    background-color: #665aaa;
+    color: #fff;
+}
 .btn {
     text-transform: none;
     font-size: 0.675rem;
@@ -696,6 +711,7 @@ footer .footer-below {
     display: inline-block;
     font-weight: bold;
     line-height: 1.25;
+    letter-spacing: .05em;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
