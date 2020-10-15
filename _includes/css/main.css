@@ -567,17 +567,22 @@ footer .footer-below {
 }
     
 .icon-social {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    color: #fff;
+        /* display: block; */
+    width: 60px;
+    /* height: 35px; */
+    color: #000019;
     font-size: 20px;
+    padding: 4px;
+    background: #fff;
+    border: 2px solid transparent;
+    border-radius: 100%;    
 }
 
-.icon-socia:focus,
-.icon-socia:active,
-.icon-socia.active {
+.icon-social:focus,
+.icon-social:active,
+.icon-social:active {
     outline: 0;
+    border: 2px solid #ffa99e;
 }
 
 .scroll-top {
