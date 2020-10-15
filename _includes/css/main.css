@@ -223,7 +223,7 @@ header .intro-text .skills {
     header .container {
         padding-top: 200px;
         padding-bottom: 100px;
-        min-width: 1040px;
+        width: 1040px;
     }
 
     header .intro-text .name {
