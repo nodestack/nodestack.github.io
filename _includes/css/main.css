@@ -529,6 +529,11 @@ footer h3 {
     line-height: 1;
     margin: 0 0 20px;
 }
+
+footer footer-nav-group {
+    color: #ffffff;
+}
+
 .footer span {
     color: #5fbffd;
 }
@@ -727,7 +732,7 @@ footer .footer-below {
     cursor: pointer;
     user-select: none;
     border: none;
-    padding: 2rem 2rem;
+    padding: 2rem 4rem;
     font-size: 1em;
     border-radius: 100px;
 }
