@@ -535,15 +535,15 @@ footer h3 {
 
 footer .link {
     color: #ffffff;
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: 700;
 }
 
 footer .o-footer {
     //background-color: rgb(38, 38, 39);
     background-color: rgb(31 37 61);
-    padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-top: 6em;
+    padding-bottom: 6em;
 }
 
 footer .footer-col {
@@ -575,7 +575,6 @@ footer .footer-below {
     font-size: 20px;
     padding: 1px;
     background: #fff;
-    border: 2px solid transparent;
     border-radius: 100%;    
 }
 .icon-social:hover,
@@ -583,7 +582,8 @@ footer .footer-below {
 .icon-social:active,
 .icon-social:active {
     outline: 0;
-    box-shadow: 0px 2px 4px rgb(255 169 158) !important;
+    border: 1px solid rgb(255 169 158);
+    //box-shadow: 0px 2px 4px rgb(255 169 158) !important;
 }
 
 .scroll-top {
