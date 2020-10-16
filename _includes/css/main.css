@@ -203,7 +203,7 @@ header .intro-text .skills {
 }
 
 header .container {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 100px;
 }
 
@@ -221,7 +221,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
+        padding-top: 100px;
         padding-bottom: 100px;
         width: 1040px;
     }
@@ -369,15 +369,25 @@ section p {
 }
 
 
-section.success {
+section .success {
     color: #241c15;
-    background-color: #fbeeca;
-    background-color: #f6f6f4;
+    background-color: rgb(255 169 158);
 }
+
+section .info {
+    color: #241c15;
+    background-color: rgb(247 247 247);
+}
+
+
 
 @media(max-width:767px) {
     section {
         padding: 75px 0;
+    }
+    
+    section  .container {
+        width: 1040px;
     }
 
     section.first {
