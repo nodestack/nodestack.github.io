@@ -379,7 +379,14 @@ section .info {
     background-color: rgb(247 247 247);
 }
 
+@media(min-width:767px) {
+  
+    section  .container {
+        width: 1040px;
+    }
 
+  
+}
 
 @media(max-width:767px) {
     section {
