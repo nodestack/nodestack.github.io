@@ -393,10 +393,7 @@ section .info {
         padding: 75px 0;
     }
     
-    section  .container {
-        width: 1040px;
-    }
-
+   
     section.first {
         padding-top: 75px;
     }
