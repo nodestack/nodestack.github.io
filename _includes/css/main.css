@@ -356,7 +356,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 100px 24px;
 }
 
 
@@ -593,7 +593,7 @@ footer .footer-below {
     /* height: 35px; */
     color: #000019;
     font-size: 20px;
-    padding: 1px;
+    //padding: 1px;
     background: #fff;
     border-radius: 100%;    
 }
@@ -602,7 +602,7 @@ footer .footer-below {
 .icon-social:active,
 .icon-social:active {
     outline: 0;
-    border: 1px solid rgb(255 169 158);
+    //border: 1px solid rgb(255 169 158);
     //box-shadow: 0px 2px 4px rgb(255 169 158) !important;
 }
 
