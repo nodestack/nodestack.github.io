@@ -41,10 +41,11 @@ h6 {
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
+    margin-bottom: 30px;
 }
 
 h1 {
-    font-size: 3.1875em;
+    font-size: 2.75em;
     font-weight: 800;
     letter-spacing: 0.125rem;
 }
@@ -61,7 +62,7 @@ h1:after {
 
 h2 {
     font-weight: 600;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 h3 {
     margin-bottom: 40px;
@@ -165,7 +166,7 @@ header {
 }
 
 header .container-fluid {
-    padding-top: 100px;
+    padding-top: 110px;
     padding-bottom: 50px;
 }
 
