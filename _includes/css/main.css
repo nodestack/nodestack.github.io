@@ -160,6 +160,7 @@ header {
     color: #000;
     background-color: #fbeeca;
     background-color: rgb(255 241 232);
+    background-color: rgb(251 238 202);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -223,7 +224,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 100px;
+        padding-top: 110px;
         padding-bottom: 100px;
         width: 1040px;
     }
@@ -371,9 +372,12 @@ section p {
 }
 
 
-section .success {
+section .case {
     color: #241c15;
     background-color: rgb(255 169 158);
+    background-color: rgb(247 247 247);
+    border-radius: 16px;
+    padding: 24px;
 }
 
 section .info {
