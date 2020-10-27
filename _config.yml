@@ -2,8 +2,8 @@
 title: "Stembolt"
 email: hello@stembolt.co
 url: http://stembolt.co
-description: "Stembolt is a digital eCommerce Experts. We're specialized in Ruby on Rails, UX Design, Digital Marketing and eCommerce."
-skills: "Ruby, Rails, Spree/Solidus (back-end e-commerce platform with Ruby on Rails), Reactjs, Reduxjs, ES6, React Native, Postgres, Redis, ElasticSearch, Heroku, Memcached, Git"
+description: "Ruby on Rails + Spree Commerce development shop. We build high performance, scalable applications."
+skills: "Spree ecommerce, Managed Services + DevOps, High Performance & Scalability e Application Development"
 meta_author: Pedro D.
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Handcrafted by nodestack
+  copyright: Stembolt.co
   location: Location
   social: Around the Web
   credits: Start a Project
@@ -49,7 +49,7 @@ address:
   - line: contact@stembolt.co
   - line: (+351) 91 663 9929
 # Credits content
-credits: "Let's talk"
+credits: "Stembolt.co"
 
 # Build settings
 markdown: kramdown
