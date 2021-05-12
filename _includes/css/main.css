@@ -331,8 +331,8 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
     background-color: #0f4fe3;
-    border-color: rgba(255,255,255,0.4);
     border-bottom: 1px solid #C8C8C8;
+    border-color: rgba(255,255,255,0.4);
 }
 .navbar-default:hover {
     border: 0;
