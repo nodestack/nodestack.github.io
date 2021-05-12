@@ -247,6 +247,9 @@ header .intro-text .skills {
         transition: padding .3s;
         z-index: 3;
     }
+    .navbar-default .navbar-nav>li>a {
+    color: #000;
+    }
 
     .navbar-fixed-top .navbar-brand {
         font-size: 1.5em;
@@ -292,7 +295,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #000019;
+    color: #fff;
     //background-color: rgb(255 241 232);
 }
 
@@ -309,7 +312,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #000019;
+    color: #fff;
 }
 
 .navbar .navbar-nav li a:hover:after {
@@ -323,7 +326,7 @@ header .intro-text .skills {
 .nav>li>a {
     position: relative;
     display: block;
-    margin: 19px 24px;
+    margin: 35px 24px;
     padding: 0;
 }
 
@@ -341,7 +344,7 @@ header .intro-text .skills {
 
 .navbar-default .navbar-brand {
     padding: 30px 15px;
-    color: #000;
+    color: #fff;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #000;
@@ -567,8 +570,8 @@ footer .link {
 }
 
 footer .o-footer {
-    //background-color: rgb(38, 38, 39);
     background-color: rgb(31 37 61);
+    background-color: #fff;
     padding-top: 6em;
     padding-bottom: 6em;
 }
