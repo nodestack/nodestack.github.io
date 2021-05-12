@@ -155,12 +155,10 @@ small {
 }
 
 header {
-    height: 100vh;
+    height: 602px;
     width: 100%;
     color: #000;
-    background-color: #fbeeca;
-    background-color: rgb(255 241 232);
-    background-color: rgb(251 238 202);
+    background-color: #0f4fe3;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -331,7 +329,9 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    background-color: rgb(255 241 232);
+    background-color: #0f4fe3;
+    border-color: rgba(255,255,255,0.4);
+    border-bottom: 1px solid #C8C8C8;
 }
 .navbar-default:hover {
     border: 0;
