@@ -257,17 +257,18 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        background-color: rgb(255 241 232);
+        background-color: #fff;
         //border-bottom: .0625rem solid #ffa99e;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+        font-color: #000;
     }
 }
 
 .navbar {
-    height: 64px;
+    height: 97px;
     font-weight: 700;
 }
 
@@ -339,7 +340,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-brand {
-    padding: 15px 15px;
+    padding: 30px 15px;
     color: #000;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
