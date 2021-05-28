@@ -158,7 +158,9 @@ header {
     height: 602px;
     width: 100%;
     color: #000;
-    background-color: #0f4fe3;
+    background: linear-gradient(90deg
+    , rgb(0, 51, 173) 0%, rgb(51, 92, 190) 100%);
+    background-image: url(/img/header_press-9720663de53452e4bb78cbc1f39b21f6.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
