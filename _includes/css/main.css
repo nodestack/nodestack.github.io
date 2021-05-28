@@ -548,7 +548,7 @@ footer {
 
 footer h3 {
     font-family: 'Playfair Display', serif;
-    color: #fff;
+    color: #1f253c;
     letter-spacing: .03rem;
     font-size: 2em;
     line-height: 1;
@@ -556,7 +556,7 @@ footer h3 {
 }
 
 footer .footer-nav-group {
-    color: #ffffff;
+    color: #1f253c;
 }
 
 .footer span {
