@@ -297,7 +297,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #fff;
+    color: #000;
     //background-color: rgb(255 241 232);
 }
 
@@ -314,7 +314,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #fff;
+    color: #000;
 }
 
 .navbar .navbar-nav li a:hover:after {
@@ -335,7 +335,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    background-color: #0f4fe3;
+    background-color: #fff;
     border-bottom: 1px solid #C8C8C8;
     border-color: rgba(255,255,255,0.4);
 }
@@ -346,7 +346,7 @@ header .intro-text .skills {
 
 .navbar-default .navbar-brand {
     padding: 30px 15px;
-    color: #fff;
+    color: #000;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #000;
