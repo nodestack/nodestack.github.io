@@ -250,11 +250,11 @@ header .intro-text .skills {
         z-index: 3;
     }
     .navbar-default .navbar-nav>li>a {
-    color: #000;
+    color: #1e1e1e;
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.5em;
+        font-size: 2em;
         text-transform: none;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
@@ -263,12 +263,13 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         background-color: #fff;
+        border-bottom: solid 1px #efefef;
         //border-bottom: .0625rem solid #ffa99e;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
-        font-color: #000;
+        font-color: #1e1e1e;
     }
 }
 
@@ -289,15 +290,14 @@ header .intro-text .skills {
     webkit-transition: all 0.6s ease;
     transition: all 0.6s ease;
     position: relative;
-    color: #000019;
-    font-size: .875em;
+    color: #1e1e1e;
+    font-size: 1.25em;
     letter-spacing: .05em;
     font-weight: 500;
-    text-transform: uppercase;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #000;
+    color: #1e1e1e;
     //background-color: rgb(255 241 232);
 }
 
