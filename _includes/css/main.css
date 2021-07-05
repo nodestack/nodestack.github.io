@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     font-family: 'Acta Display', serif;
-    color: #241c15;
+    color: #045cfc;
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
@@ -160,7 +160,7 @@ header {
     color: #000;
     background: linear-gradient(90deg
     , rgb(0, 51, 173) 0%, rgb(51, 92, 190) 100%);
-    background-image: url(/img/header_press-9720663de53452e4bb78cbc1f39b21f6.png);
+    background-image: url(/img/head.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -297,7 +297,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #1e1e1e;
+    color: #045cfc;
     //background-color: rgb(255 241 232);
 }
 
@@ -345,8 +345,9 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-brand {
+    font-family: 'Acta Display', serif;
     padding: 30px 15px;
-    color: #000;
+    color: ##045cfc;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #000;
@@ -550,9 +551,9 @@ footer {
 
 footer h3 {
     font-family: 'Acta Display', serif;
-    color: #1f253c;
+    color: #045cfc;
     letter-spacing: .03rem;
-    font-size: 2em;
+    font-size: 2.5em;
     line-height: 1;
     margin: 0 0 20px;
 }
