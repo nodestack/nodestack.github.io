@@ -155,14 +155,13 @@ small {
 }
 
 header {
-    height: 602px;
+    height: 802px;
     width: 100%;
     color: #000;
     background: linear-gradient(90deg
     , rgb(0, 51, 173) 0%, rgb(51, 92, 190) 100%);
     background-image: url(/img/head.png);
-    background-size: cover;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
 }
 
@@ -357,6 +356,7 @@ header .intro-text .skills {
 .intro-text {
     width: 100%;
     padding: 24px;
+    
 }
 
 .intro-text p {
