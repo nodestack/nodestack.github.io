@@ -715,16 +715,15 @@ footer .footer-below {
     border-color: #045cfc;
     background-color: #045cfc;
 }
-.btn-primary:hover {
-    color: #045cfc;
-    background-color: #fff;
-}
+
 .btn:focus, .btn:hover {
+    background-color: #fff;
+    color: #045cfc;
     text-decoration: none;
 }
 .btn-primary:hover, .btn-primary:active {
-    background-color: #665aaa;
-    color: #fff;
+    background-color: #fff;
+    color: #045cfc;
 }
 
 .btn-secondary {
