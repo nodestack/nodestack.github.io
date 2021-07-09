@@ -712,12 +712,12 @@ footer .footer-below {
     margin-bottom: 1rem;
     margin-top: 2rem;
     color: #fff;
-    border-color: #000;
-    background-color: #000019;
+    border-color: #045cfc;
+    background-color: #045cfc;
 }
 .btn-primary:hover {
-    color: #fff;
-    background-color: #665aaa;
+    color: #045cfc;
+    background-color: #fff;
 }
 .btn:focus, .btn:hover {
     text-decoration: none;
